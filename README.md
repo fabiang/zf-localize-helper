@@ -1,5 +1,7 @@
 # ZF Localize helper
 
+[Laminas version is available](https://github.com/fabiang/laminas-localize-helper).
+
 Initializer that passes your configured locale to all view helpers, validators
 and filters, so you don't have to do this every time.
 
